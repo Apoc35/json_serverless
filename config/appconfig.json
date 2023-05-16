@@ -1,0 +1,15 @@
+{
+  "readOnly": false,
+  "enableApiKeyAuth": false,
+  "jsonFile": "D:\\Projetos\\Json_serverless_to_aws\\db.json",
+  "enableJSONValidation": true,
+  "enableSwagger": true,
+  "logLevel": "info",
+  "stackName": "blogapi",
+  "routes": {
+    "apiRoutePath": "/api",
+    "swaggerUIRoutePath": "/ui",
+    "swaggerSpecRoutePath": "/api-spec",
+    "graphqlRoutePath": "/graphql"
+  }
+}
